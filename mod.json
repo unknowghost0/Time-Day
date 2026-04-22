@@ -1,0 +1,19 @@
+{
+	"name": "TimeAndDay",
+	"slug": "time-and-day-mod",
+	"category": "mod",
+	"author": "unknowghost",
+	"maintainers": ["unknowghost"],
+	"summary": "Displays the current in-game day number and time on the HUD in HH:MM format.",
+	"game_version": "1.9.9.8.5",
+	"castleforge_version": "core-v0.1.0+",
+	"license": "MIT",
+	"source_repo": "https://github.com/unknowghost/timeandday-mod",
+	"releases_url": "https://github.com/unknowghost/timeandday-mod/releases",
+	"readme_path": "Mods/TimeAndDay/README.md",
+	"preview_path": "Mods/TimeAndDay/preview.png",
+	"tags": ["hud", "ui", "time", "day"],
+	"dependencies": [],
+	"conflicts": [],
+	"official": false
+}
